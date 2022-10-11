@@ -1,0 +1,3 @@
+[submodule "go-jwt-auth"]
+	path = go-jwt-auth
+	url = git@github.com:lucetre/go-jwt-auth.git
