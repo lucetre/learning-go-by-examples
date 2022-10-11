@@ -1,3 +1,0 @@
-[submodule "go-jwt-auth"]
-	path = go-jwt-auth
-	url = git@github.com:Bikash888/jwt-auth.git
